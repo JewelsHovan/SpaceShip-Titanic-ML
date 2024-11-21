@@ -5,3 +5,5 @@ submissions/*
 __pycache__/
 
 /data/
+
+spaceship_preprocessing.egg-info/
